@@ -23,7 +23,7 @@ Given a short input file with names, dates, keywords, etc. related to a target, 
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/Wordlister.git
+git clone https://github.com/opticGH/wordlister.git
 cd Wordlister
 ```
 
