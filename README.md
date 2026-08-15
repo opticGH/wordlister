@@ -40,11 +40,11 @@ python3 wordlister.py -i input.txt -o output.txt
 One piece of target information per line (names, surnames, dates, pet names, teams, hobbies, etc.):
 
 ```
-Mario
-Rossi
-Milano
+John
+Smith
+New York
 1985
-Juventus
+Vanessa
 pizza
 ```
 
