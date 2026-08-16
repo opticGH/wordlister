@@ -24,7 +24,7 @@ Given a short input file with names, dates, keywords, etc. related to a target, 
 
 ```bash
 git clone https://github.com/opticGH/wordlister.git
-cd Wordlister
+cd wordlister
 ```
 
 No dependencies to install.
